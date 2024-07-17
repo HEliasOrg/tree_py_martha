@@ -1,2 +1,6 @@
+def maria():
+    global *
 
-print hello worltt
+maria+=1
+
+    maria=*
