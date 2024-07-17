@@ -1,6 +1,5 @@
-def maria():
-    global *
+NB_TOUR = 60
 
-maria+=1
-
-    maria=*
+for element in range(0, 3):
+    element+=1
+    print(element)
